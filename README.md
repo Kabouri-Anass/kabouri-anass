@@ -1,7 +1,7 @@
 # Hi 👋, I'm Anass KABOURI
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F9CF9&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%26+AI+Engineer;LangChain+%7C+FastAPI+%7C+React.js;Building+intelligent+solutions+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=26&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=>+Anass+KABOURI;>+AI+%26+Fullstack+Engineer;>+RAG+%7C+LangChain+%7C+GPT-4o;>+Nantes%2C+France+🇫🇷" alt="Typing SVG" />
 </div>
 
 ---
