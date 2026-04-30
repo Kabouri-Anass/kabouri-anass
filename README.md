@@ -102,7 +102,6 @@
 
 ## 🏆 Achievements
 
-- 🥇 **Vice-President** — Club d'Innovation de l'EST (2024/2025)
 - 🤖 **AI Project** — HR chatbot with RAG architecture deployed in production
 - 💡 **Open Source** — Passionate about contributing to open source projects
 
